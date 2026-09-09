@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Edson Silva
@@ -40,4 +39,3 @@ Interesses: Linux, código aberto, hospedagem e infraestrutura web.
 <img src="https://streak-stats.demolab.com/?user=eddiecsilva&theme=transparent&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
-```
