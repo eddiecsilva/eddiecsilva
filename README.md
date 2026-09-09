@@ -1,6 +1,6 @@
 <div align="center">
 
-# Edson Silva
+# Edson C da Silva
 
 [![Website](https://img.shields.io/badge/Website-24292f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sitesehospedagem.com.br/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eddiecsilva)
@@ -13,9 +13,8 @@
 
 ---
 
-SEO, Marketing Digital e Gestão de Tráfego.
-
-Interesses: Linux, código aberto, hospedagem e infraestrutura web.
+**Produção de conteúdo, SEO, Marketing Digital e Gestão de Tráfego.**
+Interesses: Edição de vídeo, criação de conteúdo, código aberto, hospedagem e infraestrutura web.
 
 ## Skills
 
