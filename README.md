@@ -1,6 +1,43 @@
-![](https://github-readme-stats.shion.dev/api?username=eddiecsilva&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=eddiecsilva&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=eddiecsilva&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+```markdown
+<div align="center">
 
+# Edson Silva
 
-[![Website](https://img.shields.io/badge/Website-sitesehospedagem.com.br-blue)](https://sitesehospedagem.com.br/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eddiecsilva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eddiecsilva) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@eddiecsilva) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@eddiecsilva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edson@sitesehospedagem.com.br)
+[![Website](https://img.shields.io/badge/Website-24292f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sitesehospedagem.com.br/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eddiecsilva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddiecsilva)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eddiecsilva)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@eddiecsilva)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edson@sitesehospedagem.com.br)
+
+</div>
+
+---
+
+SEO, Marketing Digital e Gestão de Tráfego.
+
+Interesses: Linux, código aberto, hospedagem e infraestrutura web.
+
+## Skills
+
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=flat-square&logo=meta&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+
+## Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=eddiecsilva&theme=transparent&hide_border=true&include_all_commits=true&count_private=false" alt="Estatísticas do GitHub" />
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=eddiecsilva&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Linguagens mais utilizadas" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=eddiecsilva&theme=transparent&hide_border=true" alt="Sequência de contribuições" />
+
+</div>
+```
