@@ -13,8 +13,7 @@
 
 ---
 
-**Produção de conteúdo, SEO, Marketing Digital e Gestão de Tráfego.**
-Interesses: Edição de vídeo, criação de conteúdo, código aberto, hospedagem e infraestrutura web.
+**Produção de conteúdo, SEO, Marketing Digital e Gestão de Tráfego.** Interesses: Edição de vídeo, criação de conteúdo, código aberto, hospedagem e infraestrutura web.
 
 ## Skills
 
