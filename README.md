@@ -2,7 +2,7 @@
 
 # Edson C da Silva
 
-[![Website](https://img.shields.io/badge/Website-24292f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sitesehospedagem.com.br/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://sitesehospedagem.com.br/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@eddiecsilva)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddiecsilva)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eddiecsilva)
