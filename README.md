@@ -48,3 +48,5 @@
 <img src="https://streak-stats.demolab.com/?user=eddiecsilva&theme=transparent&hide_border=true" alt="Sequência de contribuições" />
 
 </div>
+
+<a rel="me" href="https://mastodon.social/@eddiecsilva">Mastodon</a>
